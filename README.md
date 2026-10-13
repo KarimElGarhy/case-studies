@@ -7,6 +7,7 @@ Client code stays private: it belongs to the client. Each case study covers the 
 | | Project | Type | Stack | Year |
 |---|---|---|---|---|
 | 🏗 | [TMY Advisory](tmy-advisory/) 🇦🇺 | WordPress → headless CMS migration | Next.js 16 · Payload CMS 3 · Postgres | 2026 |
+| 🚗 | [Otolink](otolink/) 🇦🇪 | Automotive SaaS site + CMS page builder | Next.js 16 · Strapi 5 · Framer Motion | 2026 |
 | 🏛 | [Dr. Hesham Al-Qassem](hqassim/) | Arabic content & events platform | Next.js 16 · Strapi 5 · WordPress | 2024–2026 |
 | 🧠 | [Abakera (العباقرة)](abakera/) | Android game + API | Kotlin · Compose · Next.js · Prisma | 2026 |
 
